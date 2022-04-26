@@ -1,4 +1,4 @@
-package com.vismark.MicroServiceCommon.domain;
+package org.codigoinitiative.MicroServiceCommon.domain;
 
 import com.google.gson.Gson;
 

@@ -1,4 +1,4 @@
-package com.vismark.MicroServiceCommon;
+package org.codigoinitiative.MicroServiceCommon;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
